@@ -1,1 +1,3 @@
-Numbers = [67, 92, 55, 21]
+numbers = [67, 92, 55, 21]
+numbers.sort()
+print(numbers[0])
